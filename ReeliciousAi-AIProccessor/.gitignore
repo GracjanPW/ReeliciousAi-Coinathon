@@ -1,0 +1,6 @@
+.vercel
+.venv
+.env
+__pycache__
+
+file_output/*
