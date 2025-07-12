@@ -41,7 +41,7 @@ ReeliciousAI integrates with [Zora](https://zora.co/) to enable content creators
 - **🌐 Decentralized Storage**: Content stored on IPFS for permanence
 - **🎯 Creator Economy**: Direct monetization of viral content
 
-## Technical Implementation
+##  Click here to be redirected to Technical Implementation - [Frontend](https://github.com/GracjanPW/ReeliciousAi-Coinathon/tree/master/ReeliciousAI_Frontend)
 
 ### Zora technical implementation can be found in the frontend folder [Frontend](https://github.com/GracjanPW/ReeliciousAi-Coinathon/tree/master/ReeliciousAI_Frontend)
 

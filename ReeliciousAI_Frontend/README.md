@@ -12,7 +12,7 @@ The frontend provides a comprehensive interface for users to:
 - Mint content as NFTs on Zora blockchain
 - Track performance analytics across all published content
 
-#### Technical Implementation for [Zora](https://github.com/GracjanPW/ReeliciousAi-Coinathon/blob/master/ReeliciousAI_Frontend/src/app/(zora)/api/zora/route.ts)
+## Click here to be redirected to [Zora](https://github.com/GracjanPW/ReeliciousAi-Coinathon/blob/master/ReeliciousAI_Frontend/src/app/(zora)/api/zora/route.ts) implementation
 ```typescript
 // Zora SDK Integration
 import { createCoin, DeployCurrency } from "@zoralabs/coins-sdk";
